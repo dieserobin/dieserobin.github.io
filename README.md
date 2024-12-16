@@ -1,2 +1,2 @@
-# tangets
+# tangents
 robin's personal website
